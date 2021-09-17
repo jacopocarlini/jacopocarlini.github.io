@@ -133,6 +133,11 @@
     background-color: #3C91E6 !important;
 }
 
+.timeline-badge.winner {
+    background-color: #e1c514 !important;
+}
+
+
 .timeline-title {
     margin-top: 0;
     color: inherit;
